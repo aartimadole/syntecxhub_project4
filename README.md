@@ -1,6 +1,7 @@
 📊 Sales Data Analysis & Business Insights
 📌 Project Overview
 
+
 This project performs end-to-end retail sales analysis using Python to generate business insights from transactional data.
 
 The objective is to answer key business questions such as:
@@ -12,6 +13,8 @@ Which cities contribute the highest sales?
 What are the seasonal revenue trends?
 
 What is the Average Order Value (AOV)?
+
+
 
 🎯 Business Objectives
 
@@ -25,6 +28,8 @@ Compute key business KPIs
 
 Generate visual reports for decision support
 
+
+
 🛠️ Tech Stack
 
 Python
@@ -34,6 +39,8 @@ Pandas
 Matplotlib
 
 Jupyter Notebook
+
+
 
 📈 Key KPIs Calculated
 
@@ -48,6 +55,8 @@ Jupyter Notebook
 ✅ Revenue by Region
 
 ✅ Monthly Revenue Trend
+
+
 
 📊 Visualizations Included
 
@@ -65,6 +74,8 @@ Regional sales concentration
 
 Seasonal sales spikes
 
+
+
 💡 Key Insights
 
 A small group of products contributes a significant portion of total revenue.
@@ -75,6 +86,8 @@ Seasonal spikes indicate higher sales in specific months (likely Q4).
 
 Average Order Value provides insight into customer spending behavior.
 
+
+
 📁 Output Files Generated
 
 top_Categoriea.png
@@ -84,6 +97,8 @@ revenue_by_Region.png
 monthly_revenue_trend.png
 
 sales_summary_report.csv
+
+
 
 🚀 How to Run
 
@@ -96,6 +111,8 @@ Update file path inside script:
 file_path = "E:/sytecxhub_project4/sales_data (2).csv"
 
 Run the script in Jupyter Notebook.
+
+
 
 📚 Skills Demonstrated
 
@@ -110,6 +127,8 @@ Time-Series Analysis
 Business Insight Generation
 
 Data Visualization
+
+
 
 👩‍💻 Author
 
